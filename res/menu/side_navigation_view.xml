@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/side_navigation_menu_item1"
+       
+        android:title="RFID Scanner"/>
+    <item
+        android:id="@+id/side_navigation_menu_item2"
+       
+        android:title="Search"/>
+    <item
+        android:id="@+id/side_navigation_menu_item3"
+       
+        android:title="Barcode scanner"/>
+    <item
+        android:id="@+id/side_navigation_menu_item4"
+   
+        android:title="four"/>
+    <item
+        android:id="@+id/side_navigation_menu_item5"
+        
+        android:title="five"/>
+
+</menu>
